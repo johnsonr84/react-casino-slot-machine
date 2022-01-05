@@ -1,71 +1,93 @@
-# Getting Started with Create React App
+<h1 align="center"><a href="https://github.com/johnsonr84/react-casino-slot-machine">React Casino Slot Machine 🎰 </a></h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+React Casino Slot Machine - A realistic slot machine app that gives you free fake money to play to have a chance at winning a nice fake line hit or the largest fake jackpot you've only dreamed of. Give the app a spin!
 
-In the project directory, you can run:
+[![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
+[![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/threadz-n-treads?color=orange)](https://github.com/johnsonr84/react-casino-slot-machine)
+[![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/threadz-n-treads?color=yellow)](https://github.com/johnsonr84/react-casino-slot-machine)
+[![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
+- [Description](#Description)
+- [Outcome](#Outcome)
+- [Project URL](#Project-URL)
+- [Deployment](#Deployment)
+- [Demo/Screenshots](#Demo/Screenshots)
+- [Technologies](#Technologies)
+- [Installation](#Installation)
+- [Credits](#Credits)
+- [License](#License)
+- [Resources](#Resources)
+- [Contact](#Contact)
+- [Author](#Author)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Outcome
 
-### `npm run build`
+- It is responsive to different screen sizes of devices such as mobile, tablet, and desktop.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project URL
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://github.com/johnsonr84/react-casino-slot-machine
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Deployment
 
-### `npm run eject`
+Coming soon!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- - [https://johnsonr84.github.io/react-casino-slot-machine/](https://johnsonr84.github.io/react-casino-slot-machine/) -->
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Demo/Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  <table>
+    <tr>
+      <td>React Casino Slot Machine Example</td>
+    </tr>
+    <tr>
+    <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td>
+      <!-- <td><img src="" height=600 alt="screenshot of react-casino-slot-machine"></td> -->
+    </tr>
+  </table>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Technologies
 
-## Learn More
+```
+React.js
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Access to GitHub.com and a code editor such as vscode is necessary
+- Go to [https://github.com/johnsonr84/threadz-n-treads](https://github.com/johnsonr84/react-casino-slot-machine)
+- Click on the green button that says Clone or Download
+- Choose how you would like to download: using the SSH/HTTPS keys or download the zip file
+- Using SSH/HTTPS Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. Once you have cloned the git repo, cd into the repo and type open. to open the folder which contains all files used for the website. Once inside the folder, click on index.html to open the website in the browser.
+- Using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and open it. All the files for the website will be within this folder. Click on index.html to open the website in the browser.
 
-### Code Splitting
+## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+I would like to credit Wes Bos's Advanced React & GraphQL Course for teaching me the skills necessary to complete this wonderful Fullstack project and to improve my understanding of creating this amazing and uniquely customized online store.
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
-### Making a Progressive Web App
+## Resources
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* [Choose a License](https://choosealicense.com/)
+* [Badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+* [shields.io](https://shields.io/)
 
-### Advanced Configuration
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Email: robertcjohnson1984@gmail.com
 
-### Deployment
+## Designed and Built By
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-casino-slot-machine
+Author(s): Rob Johnson  
+ GitHub: https://github.com/johnsonr84/
